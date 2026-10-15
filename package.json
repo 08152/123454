@@ -1,0 +1,13 @@
+{
+  "name": "island-drop-battle-royale",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser-based, original island battle-royale game prototype built around the provided AI-created island map.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
